@@ -1,21 +1,7 @@
-[svg](https://github.com/Howie787/Howie787/blob/main/README.md#-about-me)
+## About Me
 
-# Hi, I'm Howie 👋
-
-## 🌟 About Me
-- 🎮 My hobbies: Playing games
-- 🎵 I like listening to music
-- 💻 I'm learning programming
-- 🚀 I'm interested in technology
-
-## ❤️ My Interests
-- Programming
-- Games
-- Music
-- Technology
-
-## 📚 Skills
-- HTML
-- CSS
-- JavaScript
-- Python
+- ✈️ My interests: Aviation
+- 🎵 I enjoy listening to music
+- ⚽ I enjoy sports
+- 💻 I am learning programming
+- 🚀 Future skills: Python, HTML, CSS, JavaScript
